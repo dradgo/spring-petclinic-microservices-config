@@ -1,0 +1,6 @@
+logging.level.com.wellbeat.service: DEBUG
+logging.level.org.hibernate.SQL: DEBUG
+logging.level.org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+logging.level.org.mongodb.driver.cluster: WARN
+logging.level.org.hibernate.engine.internal: INFO
+logging.level.org.hibernate.internal: INFO
